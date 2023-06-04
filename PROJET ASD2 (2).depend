@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\khali\documents\2eme semestre\asd 2\projet asd2 (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589149801 source:c:\users\khali\desktop\projet asd 2\projet asd2 (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"TABPRIM.h"
+	"LSTPRIM.h"
+
+1589072831 source:c:\users\khali\desktop\projet asd 2\projet asd2 (2)\eltatm.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1588904012 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\eltprim.h
+	"ELTSDD.H"
+
+1586631558 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\eltsdd.h
+	"ELTATM.h"
+
+1589072831 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\eltatm.h
+
+1588927859 source:c:\users\khali\desktop\projet asd 2\projet asd2 (2)\lstatm.c
+	<stdlib.h>
+	<stdio.h>
+	"LSTPRIM.H"
+
+1589072831 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\lstprim.h
+	"LSTSDD.h"
+
+1586645991 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\lstsdd.h
+	"LSTATM.h"
+
+1589072831 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\lstatm.h
+	"ELTPRIM.h"
+
+1589137914 source:c:\users\khali\desktop\projet asd 2\projet asd2 (2)\elttab.c
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	"TABPRIM.h"
+
+1589084478 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\tabprim.h
+	"TABSDD.h"
+
+1587138750 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\tabsdd.h
+	"ELTTAB.h"
+
+1588718853 c:\users\khali\desktop\projet asd 2\projet asd2 (2)\elttab.h
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
